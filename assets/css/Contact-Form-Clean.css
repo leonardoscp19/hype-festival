@@ -84,7 +84,7 @@
   color: #fff;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 767px) {
   img {
     min-width: 100%;
   }
