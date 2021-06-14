@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'Shadow of the deads Under';
-	src: url(../../assets/fonts/ShadowofthedeadsUnder.woff2) format('woff2'),
-	url(../../assets/fonts/ShadowofthedeadsUnder.woff) format('woff');
+	src: url(/assets/fonts/ShadowofthedeadsUnder.woff2) format('woff2'),
+	url(/assets/fonts/ShadowofthedeadsUnder.woff) format('woff');
 	font-weight: normal;
 	font-style: normal;
 }
